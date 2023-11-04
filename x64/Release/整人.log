@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\VStest\整人\整人\main.cpp(15,12): warning C4244: “初始化”: 从“time_t”转换到“int”，可能丢失数据
+D:\VStest\整人\整人\main.cpp(43,12): warning C4244: “初始化”: 从“time_t”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  整人.vcxproj -> D:\VStest\整人\x64\Release\整人.exe
